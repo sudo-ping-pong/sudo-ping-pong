@@ -1,16 +1,17 @@
-### Hi there 👋
+## 👋, I'm Syed!
 
-<!--
-**sudo-ping-pong/sudo-ping-pong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Something about me uwu
+ - Pronouns: he/his.
+ - Currently working on a Doctor-Patient communication product.
+ - Previously worked on a NLP based Language Learning application on Android.
+ - I play Valorant <3 (Currently Climbing Gold.)
 
-Here are some ideas to get you started:
+# Contact me
+ - [Telegram](https://t.me/sudo_ping_pong) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   
+
+   # What do I use
+
+[<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white" />](https://www.typescriptlang.org) <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" style="zoom:75%;" /> <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" style="zoom:67%;" /> <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" style="zoom:67%;" /> [<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-edb200?style=flat-square&logo=javascript&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+Tm9kZS5qczwvdGl0bGU+PHBhdGggc3R5bGU9ImZpbGw6d2hpdGUiIGQ9Ik0xMS45OTgsMjRjLTAuMzIxLDAtMC42NDEtMC4wODQtMC45MjItMC4yNDdsLTIuOTM2LTEuNzM3Yy0wLjQzOC0wLjI0NS0wLjIyNC0wLjMzMi0wLjA4LTAuMzgzIGMwLjU4NS0wLjIwMywwLjcwMy0wLjI1LDEuMzI4LTAuNjA0YzAuMDY1LTAuMDM3LDAuMTUxLTAuMDIzLDAuMjE4LDAuMDE3bDIuMjU2LDEuMzM5YzAuMDgyLDAuMDQ1LDAuMTk3LDAuMDQ1LDAuMjcyLDBsOC43OTUtNS4wNzYgYzAuMDgyLTAuMDQ3LDAuMTM0LTAuMTQxLDAuMTM0LTAuMjM4VjYuOTIxYzAtMC4wOTktMC4wNTMtMC4xOTItMC4xMzctMC4yNDJsLTguNzkxLTUuMDcyYy0wLjA4MS0wLjA0Ny0wLjE4OS0wLjA0Ny0wLjI3MSwwIEwzLjA3NSw2LjY4QzIuOTksNi43MjksMi45MzYsNi44MjUsMi45MzYsNi45MjF2MTAuMTVjMCwwLjA5NywwLjA1NCwwLjE4OSwwLjEzOSwwLjIzNWwyLjQwOSwxLjM5MiBjMS4zMDcsMC42NTQsMi4xMDgtMC4xMTYsMi4xMDgtMC44OVY3Ljc4N2MwLTAuMTQyLDAuMTE0LTAuMjUzLDAuMjU2LTAuMjUzaDEuMTE1YzAuMTM5LDAsMC4yNTUsMC4xMTIsMC4yNTUsMC4yNTN2MTAuMDIxIGMwLDEuNzQ1LTAuOTUsMi43NDUtMi42MDQsMi43NDVjLTAuNTA4LDAtMC45MDksMC0yLjAyNi0wLjU1MUwyLjI4LDE4LjY3NWMtMC41Ny0wLjMyOS0wLjkyMi0wLjk0NS0wLjkyMi0xLjYwNFY2LjkyMSBjMC0wLjY1OSwwLjM1My0xLjI3NSwwLjkyMi0xLjYwM2w4Ljc5NS01LjA4MmMwLjU1Ny0wLjMxNSwxLjI5Ni0wLjMxNSwxLjg0OCwwbDguNzk0LDUuMDgyYzAuNTcsMC4zMjksMC45MjQsMC45NDQsMC45MjQsMS42MDMgdjEwLjE1YzAsMC42NTktMC4zNTQsMS4yNzMtMC45MjQsMS42MDRsLTguNzk0LDUuMDc4QzEyLjY0MywyMy45MTYsMTIuMzI0LDI0LDExLjk5OCwyNHogTTE5LjA5OSwxMy45OTMgYzAtMS45LTEuMjg0LTIuNDA2LTMuOTg3LTIuNzYzYy0yLjczMS0wLjM2MS0zLjAwOS0wLjU0OC0zLjAwOS0xLjE4N2MwLTAuNTI4LDAuMjM1LTEuMjMzLDIuMjU4LTEuMjMzIGMxLjgwNywwLDIuNDczLDAuMzg5LDIuNzQ3LDEuNjA3YzAuMDI0LDAuMTE1LDAuMTI5LDAuMTk5LDAuMjQ3LDAuMTk5aDEuMTQxYzAuMDcxLDAsMC4xMzgtMC4wMzEsMC4xODYtMC4wODEgYzAuMDQ4LTAuMDU0LDAuMDc0LTAuMTIzLDAuMDY3LTAuMTk2Yy0wLjE3Ny0yLjA5OC0xLjU3MS0zLjA3Ni00LjM4OC0zLjA3NmMtMi41MDgsMC00LjAwNCwxLjA1OC00LjAwNCwyLjgzMyBjMCwxLjkyNSwxLjQ4OCwyLjQ1NywzLjg5NSwyLjY5NWMyLjg4LDAuMjgyLDMuMTAzLDAuNzAzLDMuMTAzLDEuMjY5YzAsMC45ODMtMC43ODksMS40MDItMi42NDIsMS40MDIgYy0yLjMyNywwLTIuODM5LTAuNTg0LTMuMDExLTEuNzQyYy0wLjAyLTAuMTI0LTAuMTI2LTAuMjE1LTAuMjUzLTAuMjE1aC0xLjEzN2MtMC4xNDEsMC0wLjI1NCwwLjExMi0wLjI1NCwwLjI1MyBjMCwxLjQ4MiwwLjgwNiwzLjI0OCw0LjY1NSwzLjI0OEMxNy41MDEsMTcuMDA3LDE5LjA5OSwxNS45MSwxOS4wOTksMTMuOTkzeiIvPjwvc3ZnPg==&logoColor=white" />](https://nodejs.org)[<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />](https://npmjs.com)  [<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) [<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />](https://prettier.io/) [<img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />](https://eslint.org/)  [<img alt="Git" src="https://img.shields.io/badge/-Git-f05033?style=flat-square&logo=git&logoColor=white" />](https://git-scm.com) [<img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />](https://code.visualstudio.com/) <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" style="zoom:67%;" /> <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" style="zoom:67%;" /> <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" style="zoom:67%;" /> [<img alt="MacOS" src="https://img.shields.io/badge/-MacOS-999999?style=flat-square&logo=apple&logoColor=white" />](https://www.apple.com/macos/what-is/) <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" style="zoom:67%;" /> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="IOS" style="zoom:67%;" />
+
