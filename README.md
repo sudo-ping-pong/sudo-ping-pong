@@ -4,7 +4,7 @@
  - Pronouns: he/his.
  - Currently working on a Doctor-Patient communication product.
  - Previously worked on a NLP based Language Learning application on Android.
- - I play Valorant <3 (Current Rank Diamond 2.)
+ - I play Valorant <3 (Current Rank ---> Ascendant 1.)
 
 # Contact me
  - [Telegram](https://t.me/sudo_ping_pong) 
