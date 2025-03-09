@@ -1,7 +1,7 @@
 ## 👋, I'm Syed!
 
 # Something about me 
- - Pronouns: he/his.
+ - Pronouns: He/Him.
  - Currently working on a Doctor-Patient communication product.
  - Previously worked on a NLP based Language Learning application on Android.
  - I play Valorant <3 (Current Rank ---> Ascendant 1.)
