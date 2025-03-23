@@ -1,17 +1,91 @@
-## 👋, I'm Syed!
+<!-- Profile Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=200&section=header&text=Hey%20I'm%20Syed!🚀&fontSize=45&fontAlignY=35&animation=fadeIn&desc=Developer%20%7C%20CTO%20%7C%20Community%20Builder&descSize=20&descAlignY=60" />
 
-# Something about me 
- - Pronouns: He/Him.
- - Currently working on a Doctor-Patient communication product.
- - Previously worked on a NLP based Language Learning application on Android.
- - I play Valorant <3 (Current Rank ---> Ascendant 1.)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Tech+Enthusiast+%F0%9F%9A%80;CTO+%40+Soocher+Healthcare+Solutions;Building+scalable+healthcare+apps;Flutter+Fanatic+%F0%9F%A4%AA;Community+Builder+%F0%9F%92%AC;Open+for+Collab+%F0%9F%91%8D" alt="Typing SVG" />
+</p>
 
-# Contact me
- - [Telegram](https://t.me/sudo_ping_pong) 
+---
 
-   
+## 👨‍💻 Who Am I?
 
-   # What do I use
+🔥 **Developer** | 🚀 **CTO @ Soocher Healthcare Solutions LLP**  
+🎯 **Focused on:** Healthcare Tech, AI, Scalable Products  
+💡 **Mission:** Using **tech** to solve real-world healthcare problems  
+❤️ **Passionate about:** Community building & Open Source  
+🎉 **Fun fact:** I’m always brewing the next big thing (ping me to know what 😉)
 
-[<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white" />](https://www.typescriptlang.org) <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" style="zoom:75%;" /> <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" style="zoom:67%;" /> <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" style="zoom:67%;" /> [<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-edb200?style=flat-square&logo=javascript&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+Tm9kZS5qczwvdGl0bGU+PHBhdGggc3R5bGU9ImZpbGw6d2hpdGUiIGQ9Ik0xMS45OTgsMjRjLTAuMzIxLDAtMC42NDEtMC4wODQtMC45MjItMC4yNDdsLTIuOTM2LTEuNzM3Yy0wLjQzOC0wLjI0NS0wLjIyNC0wLjMzMi0wLjA4LTAuMzgzIGMwLjU4NS0wLjIwMywwLjcwMy0wLjI1LDEuMzI4LTAuNjA0YzAuMDY1LTAuMDM3LDAuMTUxLTAuMDIzLDAuMjE4LDAuMDE3bDIuMjU2LDEuMzM5YzAuMDgyLDAuMDQ1LDAuMTk3LDAuMDQ1LDAuMjcyLDBsOC43OTUtNS4wNzYgYzAuMDgyLTAuMDQ3LDAuMTM0LTAuMTQxLDAuMTM0LTAuMjM4VjYuOTIxYzAtMC4wOTktMC4wNTMtMC4xOTItMC4xMzctMC4yNDJsLTguNzkxLTUuMDcyYy0wLjA4MS0wLjA0Ny0wLjE4OS0wLjA0Ny0wLjI3MSwwIEwzLjA3NSw2LjY4QzIuOTksNi43MjksMi45MzYsNi44MjUsMi45MzYsNi45MjF2MTAuMTVjMCwwLjA5NywwLjA1NCwwLjE4OSwwLjEzOSwwLjIzNWwyLjQwOSwxLjM5MiBjMS4zMDcsMC42NTQsMi4xMDgtMC4xMTYsMi4xMDgtMC44OVY3Ljc4N2MwLTAuMTQyLDAuMTE0LTAuMjUzLDAuMjU2LTAuMjUzaDEuMTE1YzAuMTM5LDAsMC4yNTUsMC4xMTIsMC4yNTUsMC4yNTN2MTAuMDIxIGMwLDEuNzQ1LTAuOTUsMi43NDUtMi42MDQsMi43NDVjLTAuNTA4LDAtMC45MDksMC0yLjAyNi0wLjU1MUwyLjI4LDE4LjY3NWMtMC41Ny0wLjMyOS0wLjkyMi0wLjk0NS0wLjkyMi0xLjYwNFY2LjkyMSBjMC0wLjY1OSwwLjM1My0xLjI3NSwwLjkyMi0xLjYwM2w4Ljc5NS01LjA4MmMwLjU1Ny0wLjMxNSwxLjI5Ni0wLjMxNSwxLjg0OCwwbDguNzk0LDUuMDgyYzAuNTcsMC4zMjksMC45MjQsMC45NDQsMC45MjQsMS42MDMgdjEwLjE1YzAsMC42NTktMC4zNTQsMS4yNzMtMC45MjQsMS42MDRsLTguNzk0LDUuMDc4QzEyLjY0MywyMy45MTYsMTIuMzI0LDI0LDExLjk5OCwyNHogTTE5LjA5OSwxMy45OTMgYzAtMS45LTEuMjg0LTIuNDA2LTMuOTg3LTIuNzYzYy0yLjczMS0wLjM2MS0zLjAwOS0wLjU0OC0zLjAwOS0xLjE4N2MwLTAuNTI4LDAuMjM1LTEuMjMzLDIuMjU4LTEuMjMzIGMxLjgwNywwLDIuNDczLDAuMzg5LDIuNzQ3LDEuNjA3YzAuMDI0LDAuMTE1LDAuMTI5LDAuMTk5LDAuMjQ3LDAuMTk5aDEuMTQxYzAuMDcxLDAsMC4xMzgtMC4wMzEsMC4xODYtMC4wODEgYzAuMDQ4LTAuMDU0LDAuMDc0LTAuMTIzLDAuMDY3LTAuMTk2Yy0wLjE3Ny0yLjA5OC0xLjU3MS0zLjA3Ni00LjM4OC0zLjA3NmMtMi41MDgsMC00LjAwNCwxLjA1OC00LjAwNCwyLjgzMyBjMCwxLjkyNSwxLjQ4OCwyLjQ1NywzLjg5NSwyLjY5NWMyLjg4LDAuMjgyLDMuMTAzLDAuNzAzLDMuMTAzLDEuMjY5YzAsMC45ODMtMC43ODksMS40MDItMi42NDIsMS40MDIgYy0yLjMyNywwLTIuODM5LTAuNTg0LTMuMDExLTEuNzQyYy0wLjAyLTAuMTI0LTAuMTI2LTAuMjE1LTAuMjUzLTAuMjE1aC0xLjEzN2MtMC4xNDEsMC0wLjI1NCwwLjExMi0wLjI1NCwwLjI1MyBjMCwxLjQ4MiwwLjgwNiwzLjI0OCw0LjY1NSwzLjI0OEMxNy41MDEsMTcuMDA3LDE5LjA5OSwxNS45MSwxOS4wOTksMTMuOTkzeiIvPjwvc3ZnPg==&logoColor=white" />](https://nodejs.org)[<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />](https://npmjs.com)  [<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) [<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />](https://prettier.io/) [<img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />](https://eslint.org/)  [<img alt="Git" src="https://img.shields.io/badge/-Git-f05033?style=flat-square&logo=git&logoColor=white" />](https://git-scm.com) [<img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />](https://code.visualstudio.com/) <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" style="zoom:67%;" /> <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" style="zoom:67%;" /> <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" style="zoom:67%;" /> [<img alt="MacOS" src="https://img.shields.io/badge/-MacOS-999999?style=flat-square&logo=apple&logoColor=white" />](https://www.apple.com/macos/what-is/) <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" style="zoom:67%;" /> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="IOS" style="zoom:67%;" />
+---
 
+## 🚀 What I'm Building
+- 🏥 **Soocher Healthcare Solutions LLP** – Transforming healthcare with tech  
+- 🤖 Exploring **AI-powered tools** for better health outcomes  
+- 🌱 Building **communities** around impactful technology  
+- 📲 **New Side Projects?** DM me, I might spill the tea ☕
+
+---
+
+## 🛠️ My Tech Arsenal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,js,react,nextjs,swift" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/imbatmaan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ⚡ GitHub Power Mode: ON
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sudo-ping-pong&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudo-ping-pong&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-ping-pong&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Achievements Unlocked
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sudo-ping-pong&theme=matrix&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 🐍 The Snake is Hungry!
+![snake gif](https://github.com/sudo-ping-pong/sudo-ping-pong/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 💥 Fun Facts
+- 🛠️ I turn ideas into **products**  
+- ✨ Flutter & SwiftUI are my **jam**  
+- 🏗️ Building **startups from scratch** is my thing  
+- 👨‍🏫 I **mentor** & love **community events**  
+- 🕹️ Side Quests? *Always. Just ask!*
+
+---
+
+## 🤝 Open for Collabs!
+🚀 Let's build the next **big thing** together!  
+**DM me** if you're working on:
+- 🚀 Tech for good  
+- 💡 Bold startup ideas  
+- 🤖 AI in healthcare  
+- 🔥 Anything exciting!
+
+---
+
+<!-- Footer Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=150&section=footer" />
