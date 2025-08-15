@@ -1,9 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff00ff&height=200&section=header&text=SYED%20THE%20RETRO%20BUILDER&fontSize=60&fontAlignY=38&desc=Back%20to%20the%20Future%20of%20Healthcare%20Tech&descSize=20&descAlignY=65&animation=twinkling" />
+  <h1 style="color: #ff00ff; font-size: 3.5rem; margin-bottom: 10px; text-shadow: 2px 2px 4px #000000;">🚀 SYED THE RETRO BUILDER 🚀</h1>
+  <p style="color: #00ffff; font-size: 1.5rem; margin-top: 0; text-shadow: 1px 1px 2px #000000;">Back to the Future of Healthcare Tech</p>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&center=true&vCenter=true&width=800&lines=🚀%20RETRO%20TECH%20WIZARD%20%7C%20HEALTHCARE%20INNOVATOR;💾%20BUILDING%20THE%20FUTURE%20WITH%20RETRO%20STYLE;🏥%20WHERE%20OLD%20SCHOOL%20MEETS%20NEW%20TECH;🌟%20CODING%20LIKE%20IT%20IS%201999" alt="Typing SVG" />
+  <h2>🚀 RETRO TECH WIZARD | HEALTHCARE INNOVATOR</h2>
+  <h3>💾 BUILDING THE FUTURE WITH RETRO STYLE</h3>
+  <h3>🏥 WHERE OLD SCHOOL MEETS NEW TECH</h3>
+  <h3>🌟 CODING LIKE IT IS 1999</h3>
 </div>
 
 ---
