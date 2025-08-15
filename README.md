@@ -1,229 +1,92 @@
-<div align="center">
-  <div style="background: linear-gradient(45deg, #ff00ff, #00ffff, #00ff00, #ff00ff); padding: 25px; border-radius: 20px; border: 4px solid #00ffff; box-shadow: 0 0 40px #ff00ff, inset 0 0 20px rgba(255, 0, 255, 0.3); position: relative; overflow: hidden;">
-    <div style="position: absolute; top: 0; left: -100%; width: 100%; height: 100%; background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.4), transparent); animation: shimmer 2s infinite;"></div>
-    <h1 style="color: white; font-size: 3.5rem; margin: 0; text-shadow: 3px 3px 6px #000000, 0 0 20px #ff00ff; font-weight: bold; letter-spacing: 2px;">🚀 SYED THE RETRO BUILDER 🚀</h1>
-    <p style="color: white; font-size: 1.5rem; margin: 15px 0 0 0; text-shadow: 2px 2px 4px #000000; font-weight: 500;">Back to the Future of Healthcare Tech</p>
-  </div>
-</div>
 
-<div align="center">
-  <h2>🚀 RETRO TECH WIZARD | HEALTHCARE INNOVATOR</h2>
-  <h3>💾 BUILDING THE FUTURE WITH RETRO STYLE</h3>
-  <h3>🏥 WHERE OLD SCHOOL MEETS NEW TECH</h3>
-  <h3>🌟 CODING LIKE IT IS 1999</h3>
-</div>
+<!-- Profile Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=200&section=header&text=Hey%20I'm%20Syed!🚀&fontSize=45&fontAlignY=35&animation=fadeIn&desc=Developer%20%7C%20CTO%20%7C%20Community%20Builder&descSize=20&descAlignY=60" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Tech+Enthusiast+%F0%9F%9A%80;CTO+%40+Soocher+Healthcare+Solutions;Building+scalable+healthcare+apps;Flutter+Fanatic+%F0%9F%A4%AA;Community+Builder+%F0%9F%92%AC;Open+for+Collab+%F0%9F%91%8D" alt="Typing SVG" />
+</p>
 
 ---
 
-<div align="center">
-  <h2>🎮 RETRO MISSION CONTROL 🎮</h2>
-  <p><strong>Loading... Revolutionizing healthcare through technology, one pixel at a time.</strong></p>
-</div>
+## 👨‍💻 Who Am I?
+
+🔥 **Developer** | 🚀 **CTO @ Soocher Healthcare Solutions LLP**  
+🎯 **Focused on:** Healthcare Tech, AI, Scalable Products  
+💡 **Mission:** Using **tech** to solve real-world healthcare problems  
+❤️ **Passionate about:** Community building & Open Source  
+🎉 **Fun fact:** I’m always brewing the next big thing (ping me to know what 😉)
 
 ---
 
-## 🕹️ **RETRO IDENTITY MATRIX**
-
-<div align="center">
-  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 20px 0;">
-    <div style="background: linear-gradient(135deg, #000000, #1a1a1a); border: 3px solid #00ff00; border-radius: 15px; padding: 20px; box-shadow: 0 0 25px #00ff00, inset 0 0 15px rgba(0, 255, 0, 0.2);">
-      <h3 style="color: #00ff00; text-align: center; margin-bottom: 15px; text-shadow: 0 0 10px #00ff00;">📊 GITHUB STATS</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=sudo-ping-pong&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=ff00ff&text_color=00ffff" />
-    </div>
-    
-    <div style="background: linear-gradient(135deg, #000000, #1a1a1a); border: 3px solid #ff00ff; border-radius: 15px; padding: 20px; box-shadow: 0 0 25px #ff00ff, inset 0 0 15px rgba(255, 0, 255, 0.2);">
-      <h3 style="color: #ff00ff; text-align: center; margin-bottom: 15px; text-shadow: 0 0 10px #ff00ff;">🔥 STREAK STATS</h3>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudo-ping-pong&theme=radical&hide_border=true&background=000000&stroke=00ff00&ring=ff00ff&fire=ff00ff&currStreakNum=00ffff&currStreakLabel=00ff00&sideNums=00ffff&sideLabels=00ff00&dates=ff00ff" />
-    </div>
-  </div>
-</div>
+## 🚀 What I'm Building
+- 🏥 **Soocher Healthcare Solutions LLP** – Transforming healthcare with tech  
+- 🤖 Exploring **AI-powered tools** for better health outcomes  
+- 🌱 Building **communities** around impactful technology  
+- 📲 **New Side Projects?** DM me, I might spill the tea ☕
 
 ---
 
-## 🎯 **RETRO TECH ARSENAL**
-
-<div align="center">
-  <h3>🛠️ LEGENDARY TECH STACK</h3>
-  <img src="https://skillicons.dev/icons?i=dart,flutter,js,react,nextjs,swift,nodejs,firebase,aws,docker,git,figma&perline=6" />
-</div>
-
-<div align="center">
-  <h3>📊 CODE MASTERY LEVELS</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-ping-pong&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=00ff00&text_color=00ffff&langs_count=8" />
-</div>
+## 🛠️ My Tech Arsenal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,js,react,nextjs,swift" />
+</p>
 
 ---
 
-## 🏆 **RETRO ACHIEVEMENTS UNLOCKED**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sudo-ping-pong&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
-</div>
-
----
-
-## 🌟 **RETRO PROJECTS UNIVERSE**
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <h3>🏥 SOOCHER HEALTHCARE</h3>
-        <p><strong>CTO & Retro Tech Architect</strong></p>
-        <p>Building scalable healthcare solutions with retro flair</p>
-        <img src="https://img.shields.io/badge/Status-ACTIVE%20DEV-00ff00?style=for-the-badge&logo=vercel" />
-      </td>
-      <td align="center" width="33%">
-        <h3>🤖 AI HEALTHCARE TOOLS</h3>
-        <p><strong>Retro Innovation Lab</strong></p>
-        <p>Exploring AI-powered diagnostics with 80s style</p>
-        <img src="https://img.shields.io/badge/Phase-R%26D%20MODE-ff00ff?style=for-the-badge&logo=openai" />
-      </td>
-      <td align="center" width="33%">
-        <h3>🌱 COMMUNITY BUILDING</h3>
-        <p><strong>Retro Ecosystem Growth</strong></p>
-        <p>Creating spaces for retro tech enthusiasts</p>
-        <img src="https://img.shields.io/badge/Status-GROWING%20STRONG-00ffff?style=for-the-badge&logo=discord" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🎨 **RETRO DEVELOPMENT PHILOSOPHY**
-
-<div align="center">
-  <h3>🔄 RETRO CODING FLOW</h3>
-  <p><strong>LOAD → THINK → CODE → TEST → DEPLOY → REPEAT</strong></p>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <h4>💭 LOAD</h4>
-        <p>Problem identification & retro solution mapping</p>
-      </td>
-      <td align="center" width="25%">
-        <h4>🏗️ THINK</h4>
-        <p>Retro system design & tech stack selection</p>
-      </td>
-      <td align="center" width="25%">
-        <h4>⚡ CODE</h4>
-        <p>Retro prototyping & MVP development</p>
-      </td>
-      <td align="center" width="25%">
-        <h4>🚀 DEPLOY</h4>
-        <p>Performance optimization & retro growth</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🌐 **RETRO NETWORK NEXUS**
-
-<div align="center">
-  <h3>🔗 CONNECT WITH THE RETRO BUILDER</h3>
-  
+## 🌐 Connect with Me
+<p align="center">
   <a href="https://www.linkedin.com/in/imbatmaan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
-  <a href="https://github.com/sudo-ping-pong" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+</p>
 
 ---
 
-## 🎯 **RETRO COLLABORATION OPPORTUNITIES**
+## ⚡ GitHub Power Mode: ON
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sudo-ping-pong&show_icons=true&theme=radical&hide_border=true" />
+</p>
 
-<div align="center">
-  <h3>🤝 LET'S BUILD SOMETHING RETRO-EXTRAORDINARY</h3>
-  <p><strong>Open for partnerships in:</strong></p>
-  
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h4>🚀 STARTUP VENTURES</h4>
-        <p>Bold ideas that challenge the status quo</p>
-        <img src="https://img.shields.io/badge/Status-OPEN%20FOR%20DISCUSSIONS-00ff00?style=for-the-badge" />
-      </td>
-      <td align="center" width="50%">
-        <h4>🏥 HEALTHCARE INNOVATION</h4>
-        <p>Tech solutions that improve patient outcomes</p>
-        <img src="https://img.shields.io/badge/Status-ACTIVELY%20SEEKING-ff00ff?style=for-the-badge" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <h4>🤖 AI/ML PROJECTS</h4>
-        <p>Intelligent systems that make a difference</p>
-        <img src="https://img.shields.io/badge/Status-EXPLORING%20OPPORTUNITIES-00ffff?style=for-the-badge" />
-      </td>
-      <td align="center" width="50%">
-        <h4>🌱 COMMUNITY INITIATIVES</h4>
-        <p>Building ecosystems for retro tech enthusiasts</p>
-        <img src="https://img.shields.io/badge/Status-ALWAYS%20WELCOMING-00ff00?style=for-the-badge" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudo-ping-pong&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-ping-pong&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 ---
 
-## 🐍 **RETRO CONTRIBUTION SNAKE**
-
-<div align="center">
-  <h3>📈 MY RETRO CODING JOURNEY</h3>
-  <img src="https://github.com/sudo-ping-pong/sudo-ping-pong/blob/output/github-contribution-grid-snake.svg" />
-</div>
+## 🏆 Achievements Unlocked
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sudo-ping-pong&theme=matrix&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 
-## 💫 **RETRO FUN FACTS & QUIRKS**
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <h4>🎮 SIDE QUESTS</h4>
-        <p>Always working on something exciting in the background</p>
-      </td>
-      <td align="center" width="33%">
-        <h4>☕ COFFEE ADDICT</h4>
-        <p>Fueling innovation one cup at a time</p>
-      </td>
-      <td align="center" width="33%">
-        <h4>🚀 FUTURE THINKER</h4>
-        <p>Constantly exploring what's next in tech</p>
-      </td>
-    </tr>
-  </table>
-</div>
+## 🐍 The Snake is Hungry!
+![snake gif](https://github.com/sudo-ping-pong/sudo-ping-pong/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 🌟 **RETRO CALL TO ACTION**
-
-<div align="center">
-  <h2>🚀 READY TO BUILD THE RETRO FUTURE?</h2>
-  <p><strong>Let's connect and create something that changes the world with retro style!</strong></p>
-  
-  <a href="https://www.linkedin.com/in/imbatmaan" target="_blank">
-    <img src="https://img.shields.io/badge/Let's%20Connect-00ff00?style=for-the-badge&logo=linkedin&logoColor=black" />
-  </a>
-</div>
+## 💥 Fun Facts
+- 🛠️ I turn ideas into **products**  
+- ✨ Flutter & SwiftUI are my **jam**  
+- 🏗️ Building **startups from scratch** is my thing  
+- 👨‍🏫 I **mentor** & love **community events**  
+- 🕹️ Side Quests? *Always. Just ask!*
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff00ff&height=150&section=footer&animation=twinkling" />
-</div>
+## 🤝 Open for Collabs!
+🚀 Let's build the next **big thing** together!  
+**DM me** if you're working on:
+- 🚀 Tech for good  
+- 💡 Bold startup ideas  
+- 🤖 AI in healthcare  
+- 🔥 Anything exciting!
+
+---
+
+<!-- Footer Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=150&section=footer" />
