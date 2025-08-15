@@ -1,6 +1,26 @@
 <div align="center">
-  <h1 style="color: #ff00ff; font-size: 3.5rem; margin-bottom: 10px; text-shadow: 2px 2px 4px #000000;">🚀 SYED THE RETRO BUILDER 🚀</h1>
-  <p style="color: #00ffff; font-size: 1.5rem; margin-top: 0; text-shadow: 1px 1px 2px #000000;">Back to the Future of Healthcare Tech</p>
+  <div style="background: linear-gradient(45deg, #ff00ff, #00ffff, #00ff00, #ff00ff); background-size: 400% 400%; animation: gradientShift 3s ease infinite; padding: 20px; border-radius: 15px; border: 3px solid #00ffff; box-shadow: 0 0 30px #ff00ff;">
+    <h1 style="color: white; font-size: 3.5rem; margin: 0; text-shadow: 3px 3px 6px #000000; animation: glow 2s ease-in-out infinite alternate;">🚀 SYED THE RETRO BUILDER 🚀</h1>
+    <p style="color: white; font-size: 1.5rem; margin: 10px 0 0 0; text-shadow: 2px 2px 4px #000000; animation: slideIn 1.5s ease-out;">Back to the Future of Healthcare Tech</p>
+  </div>
+  
+  <style>
+    @keyframes gradientShift {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+    
+    @keyframes glow {
+      from { text-shadow: 3px 3px 6px #000000, 0 0 20px #ff00ff; }
+      to { text-shadow: 3px 3px 6px #000000, 0 0 30px #ff00ff, 0 0 40px #ff00ff; }
+    }
+    
+    @keyframes slideIn {
+      from { transform: translateY(-20px); opacity: 0; }
+      to { transform: translateY(0); opacity: 1; }
+    }
+  </style>
 </div>
 
 <div align="center">
@@ -22,16 +42,24 @@
 ## 🕹️ **RETRO IDENTITY MATRIX**
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=sudo-ping-pong&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=ff00ff&text_color=00ffff" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudo-ping-pong&theme=radical&hide_border=true&background=000000&stroke=00ff00&ring=ff00ff&fire=ff00ff&currStreakNum=00ffff&currStreakLabel=00ff00&sideNums=00ffff&sideLabels=00ff00&dates=ff00ff" />
-      </td>
-    </tr>
-  </table>
+  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 20px 0;">
+    <div style="background: linear-gradient(135deg, #000000, #1a1a1a); border: 2px solid #00ff00; border-radius: 15px; padding: 20px; box-shadow: 0 0 20px #00ff00; animation: pulse 3s ease-in-out infinite;">
+      <h3 style="color: #00ff00; text-align: center; margin-bottom: 15px;">📊 GITHUB STATS</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=sudo-ping-pong&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=ff00ff&text_color=00ffff" />
+    </div>
+    
+    <div style="background: linear-gradient(135deg, #000000, #1a1a1a); border: 2px solid #ff00ff; border-radius: 15px; padding: 20px; box-shadow: 0 0 20px #ff00ff; animation: pulse 3s ease-in-out infinite 1.5s;">
+      <h3 style="color: #ff00ff; text-align: center; margin-bottom: 15px;">🔥 STREAK STATS</h3>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudo-ping-pong&theme=radical&hide_border=true&background=000000&stroke=00ff00&ring=ff00ff&fire=ff00ff&currStreakNum=00ffff&currStreakLabel=00ff00&sideNums=00ffff&sideLabels=00ff00&dates=ff00ff" />
+    </div>
+  </div>
+  
+  <style>
+    @keyframes pulse {
+      0%, 100% { transform: scale(1); box-shadow: 0 0 20px currentColor; }
+      50% { transform: scale(1.02); box-shadow: 0 0 30px currentColor; }
+    }
+  </style>
 </div>
 
 ---
