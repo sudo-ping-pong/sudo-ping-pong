@@ -1,30 +1,30 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=00dbfc&height=200&section=header&text=SYED%20THE%20BUILDER&fontSize=60&fontAlignY=38&desc=Architecting%20Tomorrow's%20Healthcare%20Today&descSize=20&descAlignY=65&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff00ff&height=200&section=header&text=SYED%20THE%20RETRO%20BUILDER&fontSize=60&fontAlignY=38&desc=Back%20to%20the%20Future%20of%20Healthcare%20Tech&descSize=20&descAlignY=65&animation=twinkling" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&center=true&vCenter=true&width=800&lines=🚀%20TECH%20ARCHITECT%20%7C%20HEALTHCARE%20INNOVATOR%20%7C%20COMMUNITY%20CATALYST;💡%20TURNING%20DREAMS%20INTO%20DIGITAL%20REALITY;🏥%20BUILDING%20THE%20FUTURE%20OF%20HEALTHCARE%20TECH;🌟%20WHERE%20CODE%20MEETS%20COMPASSION" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&center=true&vCenter=true&width=800&lines=🚀%20RETRO%20TECH%20WIZARD%20%7C%20HEALTHCARE%20INNOVATOR;💾%20BUILDING%20THE%20FUTURE%20WITH%20RETRO%20STYLE;🏥%20WHERE%20OLD%20SCHOOL%20MEETS%20NEW%20TECH;🌟%20CODING%20LIKE%20IT%20IS%201999" alt="Typing SVG" />
 </div>
 
 ---
 
 <div align="center">
-  <h2>🎯 MISSION CONTROL</h2>
-  <p><strong>Revolutionizing healthcare through technology, one line of code at a time.</strong></p>
+  <h2>🎮 RETRO MISSION CONTROL 🎮</h2>
+  <p><strong>Loading... Revolutionizing healthcare through technology, one pixel at a time.</strong></p>
 </div>
 
 ---
 
-## 🚀 **CORE IDENTITY**
+## 🕹️ **RETRO IDENTITY MATRIX**
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=sudo-ping-pong&show_icons=true&theme=aura&hide_border=true&bg_color=0D1117&title_color=00dbfc&icon_color=00dbfc&text_color=ffffff" />
+        <img src="https://github-readme-stats.vercel.app/api?username=sudo-ping-pong&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=ff00ff&text_color=00ffff" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudo-ping-pong&theme=aura&hide_border=true&background=0D1117&stroke=00dbfc&ring=00dbfc&fire=00dbfc&currStreakNum=ffffff&currStreakLabel=00dbfc&sideNums=ffffff&sideLabels=00dbfc&dates=00dbfc" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudo-ping-pong&theme=radical&hide_border=true&background=000000&stroke=00ff00&ring=ff00ff&fire=ff00ff&currStreakNum=00ffff&currStreakLabel=00ff00&sideNums=00ffff&sideLabels=00ff00&dates=ff00ff" />
       </td>
     </tr>
   </table>
@@ -32,50 +32,50 @@
 
 ---
 
-## 🏗️ **ARCHITECTURE BLUEPRINT**
+## 🎯 **RETRO TECH ARSENAL**
 
 <div align="center">
-  <h3>🛠️ TECH STACK ECOSYSTEM</h3>
+  <h3>🛠️ LEGENDARY TECH STACK</h3>
   <img src="https://skillicons.dev/icons?i=dart,flutter,js,react,nextjs,swift,nodejs,firebase,aws,docker,git,figma&perline=6" />
 </div>
 
 <div align="center">
-  <h3>📊 LANGUAGE MASTERY</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-ping-pong&layout=compact&theme=aura&hide_border=true&bg_color=0D1117&title_color=00dbfc&text_color=ffffff&langs_count=8" />
+  <h3>📊 CODE MASTERY LEVELS</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-ping-pong&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=00ff00&text_color=00ffff&langs_count=8" />
 </div>
 
 ---
 
-## 🏆 **ACHIEVEMENT MATRIX**
+## 🏆 **RETRO ACHIEVEMENTS UNLOCKED**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sudo-ping-pong&theme=discord&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sudo-ping-pong&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
 </div>
 
 ---
 
-## 🌟 **CURRENT PROJECTS UNIVERSE**
+## 🌟 **RETRO PROJECTS UNIVERSE**
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="33%">
         <h3>🏥 SOOCHER HEALTHCARE</h3>
-        <p><strong>CTO & Tech Architect</strong></p>
-        <p>Building scalable healthcare solutions that save lives</p>
-        <img src="https://img.shields.io/badge/Status-Active%20Development-00dbfc?style=for-the-badge&logo=vercel" />
+        <p><strong>CTO & Retro Tech Architect</strong></p>
+        <p>Building scalable healthcare solutions with retro flair</p>
+        <img src="https://img.shields.io/badge/Status-ACTIVE%20DEV-00ff00?style=for-the-badge&logo=vercel" />
       </td>
       <td align="center" width="33%">
         <h3>🤖 AI HEALTHCARE TOOLS</h3>
-        <p><strong>Innovation Lab</strong></p>
-        <p>Exploring AI-powered diagnostics and patient care</p>
-        <img src="https://img.shields.io/badge/Phase-Research%20%26%20Development-00dbfc?style=for-the-badge&logo=openai" />
+        <p><strong>Retro Innovation Lab</strong></p>
+        <p>Exploring AI-powered diagnostics with 80s style</p>
+        <img src="https://img.shields.io/badge/Phase-R%26D%20MODE-ff00ff?style=for-the-badge&logo=openai" />
       </td>
       <td align="center" width="33%">
         <h3>🌱 COMMUNITY BUILDING</h3>
-        <p><strong>Ecosystem Growth</strong></p>
-        <p>Creating spaces for tech enthusiasts to thrive</p>
-        <img src="https://img.shields.io/badge/Status-Growing%20Strong-00dbfc?style=for-the-badge&logo=discord" />
+        <p><strong>Retro Ecosystem Growth</strong></p>
+        <p>Creating spaces for retro tech enthusiasts</p>
+        <img src="https://img.shields.io/badge/Status-GROWING%20STRONG-00ffff?style=for-the-badge&logo=discord" />
       </td>
     </tr>
   </table>
@@ -83,31 +83,31 @@
 
 ---
 
-## 🎨 **CREATIVE PROCESS**
+## 🎨 **RETRO DEVELOPMENT PHILOSOPHY**
 
 <div align="center">
-  <h3>🔄 DEVELOPMENT PHILOSOPHY</h3>
-  <p><strong>Ideate → Architect → Build → Deploy → Iterate → Scale</strong></p>
+  <h3>🔄 RETRO CODING FLOW</h3>
+  <p><strong>LOAD → THINK → CODE → TEST → DEPLOY → REPEAT</strong></p>
 </div>
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="25%">
-        <h4>💭 IDEATION</h4>
-        <p>Problem identification & solution mapping</p>
+        <h4>💭 LOAD</h4>
+        <p>Problem identification & retro solution mapping</p>
       </td>
       <td align="center" width="25%">
-        <h4>🏗️ ARCHITECTURE</h4>
-        <p>Scalable system design & tech stack selection</p>
+        <h4>🏗️ THINK</h4>
+        <p>Retro system design & tech stack selection</p>
       </td>
       <td align="center" width="25%">
-        <h4>⚡ BUILD</h4>
-        <p>Rapid prototyping & MVP development</p>
+        <h4>⚡ CODE</h4>
+        <p>Retro prototyping & MVP development</p>
       </td>
       <td align="center" width="25%">
-        <h4>🚀 SCALE</h4>
-        <p>Performance optimization & growth strategies</p>
+        <h4>🚀 DEPLOY</h4>
+        <p>Performance optimization & retro growth</p>
       </td>
     </tr>
   </table>
@@ -115,10 +115,10 @@
 
 ---
 
-## 🌐 **NETWORK NEXUS**
+## 🌐 **RETRO NETWORK NEXUS**
 
 <div align="center">
-  <h3>🔗 CONNECT WITH THE BUILDER</h3>
+  <h3>🔗 CONNECT WITH THE RETRO BUILDER</h3>
   
   <a href="https://www.linkedin.com/in/imbatmaan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -135,10 +135,10 @@
 
 ---
 
-## 🎯 **COLLABORATION OPPORTUNITIES**
+## 🎯 **RETRO COLLABORATION OPPORTUNITIES**
 
 <div align="center">
-  <h3>🤝 LET'S BUILD SOMETHING EXTRAORDINARY</h3>
+  <h3>🤝 LET'S BUILD SOMETHING RETRO-EXTRAORDINARY</h3>
   <p><strong>Open for partnerships in:</strong></p>
   
   <table>
@@ -146,24 +146,24 @@
       <td align="center" width="50%">
         <h4>🚀 STARTUP VENTURES</h4>
         <p>Bold ideas that challenge the status quo</p>
-        <img src="https://img.shields.io/badge/Status-Open%20for%20Discussions-00dbfc?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Status-OPEN%20FOR%20DISCUSSIONS-00ff00?style=for-the-badge" />
       </td>
       <td align="center" width="50%">
         <h4>🏥 HEALTHCARE INNOVATION</h4>
         <p>Tech solutions that improve patient outcomes</p>
-        <img src="https://img.shields.io/badge/Status-Actively%20Seeking-00dbfc?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Status-ACTIVELY%20SEEKING-ff00ff?style=for-the-badge" />
       </td>
     </tr>
     <tr>
       <td align="center" width="50%">
         <h4>🤖 AI/ML PROJECTS</h4>
         <p>Intelligent systems that make a difference</p>
-        <img src="https://img.shields.io/badge/Status-Exploring%20Opportunities-00dbfc?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Status-EXPLORING%20OPPORTUNITIES-00ffff?style=for-the-badge" />
       </td>
       <td align="center" width="50%">
         <h4>🌱 COMMUNITY INITIATIVES</h4>
-        <p>Building ecosystems for tech enthusiasts</p>
-        <img src="https://img.shields.io/badge/Status-Always%20Welcoming-00dbfc?style=for-the-badge" />
+        <p>Building ecosystems for retro tech enthusiasts</p>
+        <img src="https://img.shields.io/badge/Status-ALWAYS%20WELCOMING-00ff00?style=for-the-badge" />
       </td>
     </tr>
   </table>
@@ -171,16 +171,16 @@
 
 ---
 
-## 🐍 **CONTRIBUTION SNAKE**
+## 🐍 **RETRO CONTRIBUTION SNAKE**
 
 <div align="center">
-  <h3>📈 MY CODING JOURNEY</h3>
+  <h3>📈 MY RETRO CODING JOURNEY</h3>
   <img src="https://github.com/sudo-ping-pong/sudo-ping-pong/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
 
-## 💫 **FUN FACTS & QUIRKS**
+## 💫 **RETRO FUN FACTS & QUIRKS**
 
 <div align="center">
   <table>
@@ -203,19 +203,19 @@
 
 ---
 
-## 🌟 **CALL TO ACTION**
+## 🌟 **RETRO CALL TO ACTION**
 
 <div align="center">
-  <h2>🚀 READY TO BUILD THE FUTURE?</h2>
-  <p><strong>Let's connect and create something that changes the world!</strong></p>
+  <h2>🚀 READY TO BUILD THE RETRO FUTURE?</h2>
+  <p><strong>Let's connect and create something that changes the world with retro style!</strong></p>
   
   <a href="https://www.linkedin.com/in/imbatmaan" target="_blank">
-    <img src="https://img.shields.io/badge/Let's%20Connect-00dbfc?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Let's%20Connect-00ff00?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=00dbfc&height=150&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff00ff&height=150&section=footer&animation=twinkling" />
 </div>
